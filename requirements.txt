@@ -1,0 +1,13 @@
+Requirements for Partner Lab 2
+
+Two java files
+
+1.Antics
+	Needs:
+	- palindrome tester
+	- Abecedarian tester
+	- First Letter tester
+2. Wordtester
+	Should be able to call on the methods from the Antics file
+
+	
